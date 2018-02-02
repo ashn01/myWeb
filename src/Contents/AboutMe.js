@@ -15,7 +15,7 @@ class AboutMe extends Component {
         <hr style={roundStyle} className="w3-round"/>
         <p>"Just Do It! Anyway." </p>
         <p>
-          My name is <b>Youngmin Kim</b>, and I am currently in fourth semester at Seneca College in the Computer Programming and analysis program.
+          My name is <b>Youngmin Kim</b>, and I am currently in fifth semester at Seneca College in the Computer Programming and analysis program.
           I have learnt <b>C/C++/C#, Unity, MFC, Java, NodeJS, React, Angular, HTML/CSS, Oracle, MySQL, Algorithm, System Analysis, Network, Linux, and IBM Computing</b>.<br/>
           I am eager to learn new computer technique, so I have studied <b>Unity, React, Angular</b> by myself.
         </p>
